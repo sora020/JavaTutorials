@@ -30,7 +30,15 @@ public class Hello{
 * JavaKeyWord.java<br />
 * DataTypes.java<br />
 * IfElse.java<br />
-* SwitchExmaple1.java<br />
-* SwitchExmaple2.java<br />
-* SwitchExmaple3.java<br />
-* SwitchExmaple4.java<br />
+* SwitchExample1.java<br />
+* SwitchExample2.java<br />
+* SwitchExample3.java<br />
+* SwitchExample4.java<br />
+* SwitchExample5.java<br />
+* SwitchExample6.java<br />
+* ForExample.java<br />
+* MultiplicationTable.java<br />
+* ForExample1.java<br />
+* ForExample2.java<br />
+* ForExample3.java<br />
+
