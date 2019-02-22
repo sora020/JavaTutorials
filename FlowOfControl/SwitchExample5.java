@@ -5,9 +5,9 @@ public class SwitchExample5
 	public static void main(String[] args)
 	{
 		Day[] DayNow = Day.values();
-		for(Day Now : DayNow)
+		for(Day i : DayNow)
 		{
-			switch(Now)
+			switch(i)
 			{
 				case Sunday:	System.out.println("Sunday");
 						break;
