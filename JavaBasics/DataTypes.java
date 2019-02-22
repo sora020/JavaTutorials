@@ -21,7 +21,7 @@
  *	char          '\u0000'          2 byte
  *	short         0                 2 byte
  *	int           0                 4 byte
- *	long          0L                8 byte                
+ *	long          0L                8 byte
  *	float         0.0f              4 byte
  *	double	      0.0d              8 byte
  */
