@@ -3,12 +3,12 @@ public class Palindrome {
 		int n = 12321; //enter value here
 		int sum = 0, r, temp;
 		temp = n;
-		while(n > 0) {
+		while (n > 0) {
 			r = n % 10;
 			n = n / 10;
 			sum = (sum * 10) + r;
 		}
-		if(sum == temp)
+		if (sum == temp)
 			System.out.println("Palindrome");
 		else
 			System.out.println("Not a Palindrome");
