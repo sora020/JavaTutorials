@@ -10,14 +10,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a436807c-39ad-4a77-835d-714d4e03fb2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/BubbleSortExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/BubbleSortExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/BubbleSortExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/BubbleSortExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/InsertionSortExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/InsertionSortExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/InsertionSortExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/InsertionSortExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/SelectionSortExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/SelectionSortExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/SelectionSortExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/SelectionSortExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/BreakExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/BreakExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/CommentExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/CommentExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/ContinueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/ContinueExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/DoWhileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/DoWhileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/DoWhileExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/DoWhileExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/ForExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/ForExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/ForExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/ForExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/ForExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/ForExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/ForExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/ForExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample5.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample6.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/WhileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/WhileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControl/WhileExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/WhileExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControlPrograms/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControlPrograms/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControlPrograms/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControlPrograms/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControlPrograms/FactorialRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControlPrograms/FactorialRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControlPrograms/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControlPrograms/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControlPrograms/FibonacciRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControlPrograms/FibonacciRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControlPrograms/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControlPrograms/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControlPrograms/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControlPrograms/PalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControlPrograms/PrimeMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControlPrograms/PrimeMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowOfControlPrograms/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControlPrograms/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/AddTwoNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/AddTwoNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/ClassLoaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/ClassLoaderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/PrintChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/PrintChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Simple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/Simple1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Simple1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/Simple2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Simple2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/Simple3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Simple3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/Simple4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Simple4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/Simple5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Simple5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/Variable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Variable1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/Variable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Variable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/Variable3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Variable3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/VariableTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/VariableTypes.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,40 +67,74 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examples/AllSortExample.java">
+        <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/Armstrong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examples/BubbleSortExample.java">
+        <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/FactorialRecursion.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state>
+              <caret selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examples/BubbleSortExample1.java">
+        <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/PrimeMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="153">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaBasics/Variable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Examples/InsertionSortExample.java">
+        <entry file="file://$PROJECT_DIR$/JavaBasics/JavaKeyWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="5" lean-forward="true" selection-end-line="41" />
+            <state relative-caret-position="467">
+              <caret line="156" selection-start-line="156" selection-end-line="156" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlowOfControl/SwitchExample2.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlowOfControl/WhileExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlowOfControl/WhileExample1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -127,28 +197,32 @@
         <option value="$PROJECT_DIR$/JavaBasics/Simple3.java" />
         <option value="$PROJECT_DIR$/JavaBasics/Simple4.java" />
         <option value="$PROJECT_DIR$/JavaBasics/Simple5.java" />
-        <option value="$PROJECT_DIR$/JavaBasics/Variable.java" />
         <option value="$PROJECT_DIR$/JavaBasics/Variable1.java" />
         <option value="$PROJECT_DIR$/JavaBasics/Variable2.java" />
         <option value="$PROJECT_DIR$/JavaBasics/Variable3.java" />
         <option value="$PROJECT_DIR$/JavaBasics/VariableTypes.java" />
-        <option value="$PROJECT_DIR$/FlowOfControlPrograms/Fibonacci.java" />
         <option value="$PROJECT_DIR$/FlowOfControlPrograms/FibonacciRecursion.java" />
-        <option value="$PROJECT_DIR$/FlowOfControlPrograms/PrimeMethod.java" />
         <option value="$PROJECT_DIR$/FlowOfControlPrograms/PrimeNumber.java" />
         <option value="$PROJECT_DIR$/FlowOfControl/WhileExample1.java" />
-        <option value="$PROJECT_DIR$/FlowOfControl/WhileExample.java" />
         <option value="$PROJECT_DIR$/FlowOfControl/SwitchExample6.java" />
         <option value="$PROJECT_DIR$/FlowOfControl/SwitchExample5.java" />
         <option value="$PROJECT_DIR$/FlowOfControl/SwitchExample3.java" />
-        <option value="$PROJECT_DIR$/FlowOfControl/SwitchExample2.java" />
         <option value="$PROJECT_DIR$/FlowOfControl/MultiplicationTable.java" />
         <option value="$PROJECT_DIR$/FlowOfControl/IfElse.java" />
         <option value="$PROJECT_DIR$/Examples/BubbleSortExample.java" />
         <option value="$PROJECT_DIR$/Examples/BubbleSortExample1.java" />
+        <option value="$PROJECT_DIR$/Examples/AllSortExample.java" />
         <option value="$PROJECT_DIR$/Examples/InsertionSortExample.java" />
         <option value="$PROJECT_DIR$/Examples/SelectionSortExample.java" />
-        <option value="$PROJECT_DIR$/Examples/AllSortExample.java" />
+        <option value="$PROJECT_DIR$/FlowOfControl/CommentExample1.java" />
+        <option value="$PROJECT_DIR$/FlowOfControl/ForExample2.java" />
+        <option value="$PROJECT_DIR$/FlowOfControl/SwitchExample2.java" />
+        <option value="$PROJECT_DIR$/FlowOfControl/WhileExample.java" />
+        <option value="$PROJECT_DIR$/FlowOfControlPrograms/Armstrong.java" />
+        <option value="$PROJECT_DIR$/FlowOfControlPrograms/FactorialRecursion.java" />
+        <option value="$PROJECT_DIR$/FlowOfControlPrograms/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/FlowOfControlPrograms/PrimeMethod.java" />
+        <option value="$PROJECT_DIR$/JavaBasics/Variable.java" />
       </list>
     </option>
   </component>
@@ -179,7 +253,7 @@
             <path>
               <item name="Java Tuts" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java Tuts" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="FlowOfControl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java Tuts" type="b2602c69:ProjectViewProjectNode" />
@@ -201,7 +275,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550943648372" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550943939224" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/FlowOfControlPrograms/Armstrong.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -270,7 +344,7 @@
       <workItem from="1550920423426" duration="333000" />
       <workItem from="1550922638963" duration="571000" />
       <workItem from="1550927411669" duration="1047000" />
-      <workItem from="1550943059780" duration="392000" />
+      <workItem from="1550943059780" duration="1017000" />
     </task>
     <task id="LOCAL-00001" summary="Fourth commit">
       <created>1550841739813</created>
@@ -328,14 +402,29 @@
       <option name="project" value="LOCAL" />
       <updated>1550927855108</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added Example Programs">
+      <created>1550943610224</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550943610224</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Example Programs">
+      <created>1550943716568</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1550943716568</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5944000" />
+    <option name="totallyTimeSpent" value="6569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.20306122" />
       <window_info id="Structure" order="1" sideWeight="0.5040917" side_tool="true" weight="0.26020408" />
@@ -458,13 +547,6 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaBasics/AddTwoNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaBasics/ClassLoaderExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -478,16 +560,6 @@
           <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
           <folding>
             <element signature="e#0#1571#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaBasics/JavaKeyWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="156" lean-forward="true" selection-start-line="156" selection-end-line="156" />
-          <folding>
-            <element signature="e#0#6515#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -541,13 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaBasics/Variable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaBasics/Variable1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -595,24 +660,10 @@
     <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/Fibonacci.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/FibonacciRecursion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/PrimeMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -629,20 +680,6 @@
           <folding>
             <element signature="e#0#301#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlowOfControl/WhileExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlowOfControl/WhileExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -664,9 +701,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/FlowOfControl/SwitchExample3.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlowOfControl/SwitchExample2.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/FlowOfControl/SwitchExample1.java">
@@ -701,33 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/BubbleSortExample.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/Armstrong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/SelectionSortExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/AllSortExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Examples/BubbleSortExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -744,8 +751,147 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/InsertionSortExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="5" lean-forward="true" selection-end-line="41" />
+        <state relative-caret-position="408">
+          <caret line="24" column="9" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/SelectionSortExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/BubbleSortExample1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/BubbleSortExample.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/AllSortExample.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#3012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/AllSortExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowOfControl/BreakExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowOfControl/CommentExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="28" />
+          <folding>
+            <element signature="e#0#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowOfControl/CommentExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowOfControl/ForExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowOfControl/SwitchExample2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowOfControl/WhileExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowOfControl/WhileExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/Armstrong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/FactorialRecursion.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowOfControlPrograms/PrimeMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaBasics/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <folding>
+              <element signature="e#62#63#0" expanded="true" />
+              <element signature="e#110#111#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaBasics/JavaKeyWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
         </state>
       </provider>
     </entry>
