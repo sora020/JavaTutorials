@@ -11,24 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a436807c-39ad-4a77-835d-714d4e03fb2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/DoWhileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/DoWhileExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/DoWhileExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/DoWhileExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/ForExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/ForExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/ForExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/ForExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/ForExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/ForExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/ForExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/ForExample3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample5.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/SwitchExample6.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/SwitchExample6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/WhileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/WhileExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowOfControl/WhileExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlowOfControl/WhileExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasics/JavaKeyWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/JavaKeyWord.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +131,7 @@
     </excluded-from-favorite>
   </component>
   <component name="GithubProjectSettings">
-    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="CheckoutBranch" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="sora061" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="JavaTutorials" />
   </component>
@@ -227,7 +209,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550910873823" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550913601148" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -260,7 +242,7 @@
       <workItem from="1550846549339" duration="197000" />
       <workItem from="1550848028472" duration="602000" />
       <workItem from="1550848690193" duration="600000" />
-      <workItem from="1550909790612" duration="1073000" />
+      <workItem from="1550909790612" duration="1909000" />
     </task>
     <task id="LOCAL-00001" summary="Fourth commit">
       <created>1550841739813</created>
@@ -290,11 +272,25 @@
       <option name="project" value="LOCAL" />
       <updated>1550849027378</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Reformatted and updated">
+      <created>1550910923036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550910923036</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added Flow of Control programs">
+      <created>1550911080484</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550911080484</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2765000" />
+    <option name="totallyTimeSpent" value="3601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
@@ -408,7 +404,9 @@
     <MESSAGE value="Fourth commit" />
     <MESSAGE value="Master commit" />
     <MESSAGE value="Reformatted Codes in JavaBasics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reformatted Codes in JavaBasics" />
+    <MESSAGE value="Reformatted and updated" />
+    <MESSAGE value="added Flow of Control programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Flow of Control programs" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/JavaBasics/Simple.java">
