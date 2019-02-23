@@ -58,6 +58,34 @@ class Sort {
 		}
 		return array;
 	}
+	
+	/**
+	 * Shell Sort Algorithm method
+	 */
+	int[] shellSort(int[] array) {
+		// h should be strictly less than array.length
+		int h = 1;
+		while(h < (array.length/3)) {
+			h = h*3 + 1;
+		}
+		while(h >= 1) {
+			for(int i = h; i < array.length; i++) {
+				// h-sort the array
+       				// Iterate through elements from right to left, moving h steps back.
+				for(int j = i; j >= h; j = j - h) {
+					if(array[j] < array[j-h]) {
+						int temp = array[j];
+						array[j] = array[j-h];
+						array[j-h] = temp;
+					}
+					else
+						break;
+				}
+			}
+			h = h/3;
+		}
+		return array;
+	}
 };
 
 /**
@@ -72,25 +100,31 @@ public class AllSortExample {
 		Sort s = new Sort();
 		switch (userch) {
 			case 1:
-				System.out.println("The Array after sorting the element: ");
+				System.out.println("The Array after Bubble sorting the element: ");
 				/**
-				 * calling selectionSort method in class Sort and passing the
+				 * calling bubbleSort() method in class Sort and passing the
 				 array to printArray method*/
 				printArray(s.bubbleSort(array));
 				break;
 			case 2:
-				System.out.println("The Array after sorting the element: ");
+				System.out.println("The Array after Selection sorting the element: ");
 				/**
-				 * calling selectionSort method in class Sort and passing
+				 * calling selectionSort() method in class Sort and passing
 				 the array to printArray method*/
 				printArray(s.selectionSort(array));
 				break;
 			case 3:
-				System.out.println("The Array after sorting the element: ");
+				System.out.println("The Array after Insertion sorting the element: ");
 				/**
-				 * calling insertionSort method in class Sort and passing the
+				 * calling insertionSort() method in class Sort and passing the
 				 array to printArray method*/
 				printArray(s.insertionSort(array));
+				break;
+			case 4: 
+				System.out.println("The Array after Shell sorting the element: ");
+				/**calling shellSort() method in class Sort and passing the
+				 array to printArray method*/
+				printArray(s.shellSort(array));
 				break;
 			default:
 				System.out.println("Wrong Choice");
@@ -142,7 +176,8 @@ public class AllSortExample {
 				System.out.println("\nWhat sorting type you want to perform: " +
 					"\n1. Bubble Sort" +
 					"\n2. Selection Sort" +
-					"\n3. Insertion Sort");
+					"\n3. Insertion Sort" + 
+					"\n4. Shell Sort");
 				System.out.println("Enter your choice: ");
 				userch = sc.nextInt();
 				switchChoice(array, userch);
