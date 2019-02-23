@@ -1,4 +1,5 @@
-/* 1. abstract: Java abstract keyword is used to declare abstract class.
+/*
+ * 1. abstract: Java abstract keyword is used to declare abstract class.
  * Abstract class can provide the implementation of interface. It can have
  * abstract and non-abstract methods.
  *
