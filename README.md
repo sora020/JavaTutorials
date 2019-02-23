@@ -11,7 +11,6 @@ public class Hello{
 ````
 #### *Start from:* 
 
-
 * Simple.java<br />
 * Simple1.java<br />
 * Simple2.java<br />
@@ -29,9 +28,7 @@ public class Hello{
 * PrintChar.cpp<br />
 * Operator.java<br />
 * JavaKeyWord.java<br />
-* DataTypes.java<br />
-<br />
-<br />
+* DataTypes.java<br /><br />
 * IfElse.java<br />
 * SwitchExample1.java<br />
 * SwitchExample2.java<br />
@@ -51,11 +48,9 @@ public class Hello{
 * BreakExample.java<br />
 * ContinueExample.java<br />
 * CommentExample.java<br />
-* CommentExample1.java<br />
-<br />
-<br />
+* CommentExample1.java<br /><br />
 * Fibonacci.java<br />
 * FibonacciRecursion.java<br />
 * PrimeNumber.java<br />
 * PrimeMethod.java<br />
-<br />
+
