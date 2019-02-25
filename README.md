@@ -53,4 +53,13 @@ public class Hello{
 * FibonacciRecursion.java<br />
 * PrimeNumber.java<br />
 * PrimeMethod.java<br />
-
+* Armstrong.java<br />
+* Factorial.java<br />
+* FactorialRecursion.java<br />
+* Palindrome.java<br />
+* PalindromeString.java<br /><br />
+* BubbleSortExample.java<br />
+* BubbleSortExample1.java<br />
+* SelectionSortExample.java<br />
+* InsertionSortExample.java<br />
+* AllSortExample.java<br />
