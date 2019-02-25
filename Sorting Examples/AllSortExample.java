@@ -58,10 +58,6 @@ class Sort {
 		}
 		return array;
 	}
-	
-	/**
-	 * Shell Sort Algorithm method
-	 */
 	int[] shellSort(int[] array) {
 		// h should be strictly less than array.length
 		int h = 1;
