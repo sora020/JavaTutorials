@@ -1,4 +1,4 @@
-/* Java Program to demonstrate having the main method in   
+/* Java Program to demonstrate having the main method in
  * another class
  */
 

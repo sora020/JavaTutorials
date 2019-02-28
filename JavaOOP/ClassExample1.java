@@ -1,9 +1,10 @@
 /* Java Program to illustrate how to define a class and fields
- */  
+ */
 
 public class ClassExample1 {
 	int id;
 	String name;
+
 	public static void main(String... args) {
 		ClassExample1 c = new ClassExample1();
 		// not a static variable

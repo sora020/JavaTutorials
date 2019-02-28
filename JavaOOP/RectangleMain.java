@@ -1,17 +1,20 @@
 class Rectangle {
-	 private
-                double length, breadth;
-		double area;
-		Rectangle(double l, double b) {
-			length = l;
-			breadth = b;
-		}	
-		double area() {
-			return length*breadth;
-		}	
-	private	void print() {
-			System.out.println(length*breadth);
-		}
+	double area;
+	private
+	double length, breadth;
+
+	Rectangle(double l, double b) {
+		length = l;
+		breadth = b;
+	}
+
+	double area() {
+		return length * breadth;
+	}
+
+	private void print() {
+		System.out.println(length * breadth);
+	}
 }
 
 public class RectangleMain {
