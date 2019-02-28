@@ -1,17 +1,19 @@
-/* Java Program to demontrate object initializtion using 
+/* Java Program to demontrate object initializtion using
  * constructor
  */
 class Student2 {
+	String name;
 	private
-		int id;
-		String name;
+	int id;
+
 	public Student2(int i, String n) {
 		id = i;
-		name = n; 
+		name = n;
 	}
+
 	public void print() {
-			System.out.println(id + " " + name);	
-		}
+		System.out.println(id + " " + name);
+	}
 }
 
 public class ObjectInit4 {

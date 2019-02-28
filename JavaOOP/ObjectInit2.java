@@ -1,9 +1,9 @@
-/* Java Program to create multiple objects and store information in it 
+/* Java Program to create multiple objects and store information in it
  * through reference variable
  *
- * Since class Student class is already in the same directory, no import 
+ * Since class Student class is already in the same directory, no import
  * is needed to call it.
- * It is declared in the ClassExample2.java 
+ * It is declared in the ClassExample2.java
  */
 
 public class ObjectInit2 {
