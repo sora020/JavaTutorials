@@ -9,7 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a436807c-39ad-4a77-835d-714d4e03fb2b" name="Default Changelist" comment="">
+    <list default="true" id="a436807c-39ad-4a77-835d-714d4e03fb2b" name="Default Changelist" comment="Reformatted java files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +22,7 @@
     <favorites_list name="Java Tuts" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -127,15 +127,15 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550944282070" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaOOP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -205,6 +205,7 @@
       <workItem from="1550927411669" duration="1047000" />
       <workItem from="1550943059780" duration="1398000" />
       <workItem from="1551368264629" duration="457000" />
+      <workItem from="1558361736363" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="Fourth commit">
       <created>1550841739813</created>
@@ -283,16 +284,23 @@
       <option name="project" value="LOCAL" />
       <updated>1550944139448</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Reformatted java files">
+      <created>1558361753515</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558361753515</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7407000" />
+    <option name="totallyTimeSpent" value="7794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.2053476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.20802139" />
       <window_info id="Structure" order="1" sideWeight="0.5040917" side_tool="true" weight="0.26020408" />
       <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.25510204" />
       <window_info id="Image Layers" order="3" />
@@ -307,9 +315,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4983957" visible="true" weight="0.29718006" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49786097" visible="true" weight="0.29826465" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989796" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50160426" side_tool="true" visible="true" weight="0.29718006" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50213903" side_tool="true" visible="true" weight="0.29826465" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
