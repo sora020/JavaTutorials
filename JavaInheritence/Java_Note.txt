@@ -1,0 +1,18 @@
+Java doesn't support multiple inheritence 
+Example: 
+class A {
+	void func() {
+	}
+}
+class B {
+	void func() {
+	}
+}
+
+//can't support below
+class C extends A,B {
+	public static void main() {
+		C c = new C();
+		c.func();	
+	}
+}
